@@ -1,4 +1,4 @@
-baseURL = "https://appmobiles.onrender.com"
+baseURL = "https://appmobiles.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
